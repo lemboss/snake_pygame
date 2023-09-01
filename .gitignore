@@ -1,3 +1,5 @@
 .DS_Store
 objects/.DS_Store
-.gitignore
+objects/__pycache__
+objects/score.db
+venv
